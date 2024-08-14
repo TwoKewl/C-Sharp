@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UeIsxS3Nf2PqqybBa+0+GKkfyIFie0de/cOA854bnpXouVn1T84L1MzA+1lLMhlNjLmki8yHQJJ8X8/8wgVlqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Toby\\Documents\\GitHub\\C-Sharp\\BurningShipFractal\\BurningShipFractal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Toby\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Toby\\.nuget\\packages\\system.drawing.common\\8.0.7\\system.drawing.common.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

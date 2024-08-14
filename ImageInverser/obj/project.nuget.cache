@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HgxtKuucfqKvYWj+pKdWa3AN98IiDT7onD6mVQ7JaC3WkBxp6uqNrgPS31XnEqxVdjz6K4c2bK3L6Bc95YBwew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Toby\\Documents\\GitHub\\C-Sharp\\ImageInverser\\ImageInverser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Toby\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Toby\\.nuget\\packages\\system.drawing.common\\8.0.7\\system.drawing.common.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

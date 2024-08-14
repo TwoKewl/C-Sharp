@@ -1,0 +1,15 @@
+c:\Users\Toby\Documents\GitHub\C-Sharp\GameOfLife\bin\Release\net8.0\GameOfLife.exe
+c:\Users\Toby\Documents\GitHub\C-Sharp\GameOfLife\bin\Release\net8.0\GameOfLife.deps.json
+c:\Users\Toby\Documents\GitHub\C-Sharp\GameOfLife\bin\Release\net8.0\GameOfLife.runtimeconfig.json
+c:\Users\Toby\Documents\GitHub\C-Sharp\GameOfLife\bin\Release\net8.0\GameOfLife.dll
+c:\Users\Toby\Documents\GitHub\C-Sharp\GameOfLife\bin\Release\net8.0\GameOfLife.pdb
+c:\Users\Toby\Documents\GitHub\C-Sharp\GameOfLife\obj\Release\net8.0\GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Toby\Documents\GitHub\C-Sharp\GameOfLife\obj\Release\net8.0\GameOfLife.AssemblyInfoInputs.cache
+c:\Users\Toby\Documents\GitHub\C-Sharp\GameOfLife\obj\Release\net8.0\GameOfLife.AssemblyInfo.cs
+c:\Users\Toby\Documents\GitHub\C-Sharp\GameOfLife\obj\Release\net8.0\GameOfLife.csproj.CoreCompileInputs.cache
+c:\Users\Toby\Documents\GitHub\C-Sharp\GameOfLife\obj\Release\net8.0\GameOfLife.sourcelink.json
+c:\Users\Toby\Documents\GitHub\C-Sharp\GameOfLife\obj\Release\net8.0\GameOfLife.dll
+c:\Users\Toby\Documents\GitHub\C-Sharp\GameOfLife\obj\Release\net8.0\refint\GameOfLife.dll
+c:\Users\Toby\Documents\GitHub\C-Sharp\GameOfLife\obj\Release\net8.0\GameOfLife.pdb
+c:\Users\Toby\Documents\GitHub\C-Sharp\GameOfLife\obj\Release\net8.0\GameOfLife.genruntimeconfig.cache
+c:\Users\Toby\Documents\GitHub\C-Sharp\GameOfLife\obj\Release\net8.0\ref\GameOfLife.dll

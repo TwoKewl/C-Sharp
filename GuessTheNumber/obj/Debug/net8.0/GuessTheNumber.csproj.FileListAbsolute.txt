@@ -1,0 +1,15 @@
+c:\Users\Toby\Documents\GitHub\C-Sharp\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Toby\Documents\GitHub\C-Sharp\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfoInputs.cache
+c:\Users\Toby\Documents\GitHub\C-Sharp\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfo.cs
+c:\Users\Toby\Documents\GitHub\C-Sharp\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+c:\Users\Toby\Documents\GitHub\C-Sharp\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.sourcelink.json
+c:\Users\Toby\Documents\GitHub\C-Sharp\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.exe
+c:\Users\Toby\Documents\GitHub\C-Sharp\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.deps.json
+c:\Users\Toby\Documents\GitHub\C-Sharp\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.runtimeconfig.json
+c:\Users\Toby\Documents\GitHub\C-Sharp\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.dll
+c:\Users\Toby\Documents\GitHub\C-Sharp\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.pdb
+c:\Users\Toby\Documents\GitHub\C-Sharp\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.dll
+c:\Users\Toby\Documents\GitHub\C-Sharp\GuessTheNumber\obj\Debug\net8.0\refint\GuessTheNumber.dll
+c:\Users\Toby\Documents\GitHub\C-Sharp\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.pdb
+c:\Users\Toby\Documents\GitHub\C-Sharp\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.genruntimeconfig.cache
+c:\Users\Toby\Documents\GitHub\C-Sharp\GuessTheNumber\obj\Debug\net8.0\ref\GuessTheNumber.dll
