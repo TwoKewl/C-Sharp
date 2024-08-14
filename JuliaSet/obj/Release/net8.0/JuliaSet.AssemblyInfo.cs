@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JuliaSet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a6aa2f6ae7eeab0732ac2e5e5fd31286caa2fe7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1725ce7b9b74ea220d6a266a5e4e1e154aa5d220")]
 [assembly: System.Reflection.AssemblyProductAttribute("JuliaSet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JuliaSet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
