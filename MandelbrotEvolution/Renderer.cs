@@ -20,7 +20,7 @@ internal class Renderer
 	public float yMin = -1.0f * 2f;
 	public float yMax = 1.0f * 2f;
 	
-	public Renderer(int width, int height)
+	public Renderer(int width, int height) // Initialises the renderer (sets pixels and colour values)
 	{
 		Width = width;
 		Height = height;
@@ -40,7 +40,7 @@ internal class Renderer
 		}
 	}
 	
-	public void GetNextGeneration()
+	public void GetNextGeneration() // For every pixel, calculate whether it is inside of the mandelbrot set given iterations
 	{
 		Parallel.For(0, Pixels.Length, i =>
 		{
@@ -60,6 +60,8 @@ internal class Renderer
 		});
 
 		iteration++;
+
+		// Build the image after calculating the set
 		
 		Data = Image.LockBits(new Rectangle(0, 0, Width, Height), ImageLockMode.ReadWrite, PixelFormat.Format32bppArgb);
 		ptr = Data.Scan0;
@@ -84,6 +86,7 @@ internal class Renderer
 	
 	public void SaveAsImage(string path)
 	{
+		// Save the image as a PNG
 		Image.Save(path, ImageFormat.Png);
 	}
 }
