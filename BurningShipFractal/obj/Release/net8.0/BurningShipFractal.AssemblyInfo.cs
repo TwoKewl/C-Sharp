@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BurningShipFractal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6730adb6108cf50d6600db8b6e6d2162e2d7f045")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cb7de74397777dfd3c34d68c85b9ca5400a5715")]
 [assembly: System.Reflection.AssemblyProductAttribute("BurningShipFractal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BurningShipFractal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

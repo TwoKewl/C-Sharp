@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImageInverser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ea696138dc4d0f6b0d720045b967676506d2077")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cb7de74397777dfd3c34d68c85b9ca5400a5715")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImageInverser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImageInverser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
