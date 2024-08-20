@@ -7,6 +7,7 @@ class Program
 {
 	public static void Main(string[] args)
 	{
+		
 		Stopwatch sw = new();
 		Renderer r = new(1920, 1080);
 		string path = "MandelbrotEvolution/Images/";
@@ -18,7 +19,7 @@ class Program
 		for (int i = 0; i < 1000; i++)
 		{
 			sw.Start();
-			r.GetNextGeneration();
+			r.GetNextGeneration(i);
 			r.SaveAsImage($"{path}{i.ToString().PadLeft(4, '0')}.png");
 			sw.Stop();
 			Console.WriteLine($"Image {i + 1} saved in {sw.ElapsedMilliseconds}ms");
